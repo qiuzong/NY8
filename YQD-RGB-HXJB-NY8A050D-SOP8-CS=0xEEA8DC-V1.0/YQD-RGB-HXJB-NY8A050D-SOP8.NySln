@@ -1,0 +1,17 @@
+﻿
+Nyquest IDE Solution File, Format Version 1.00
+# NYIDE 4.31.0.2252
+Project("{608D5F73-6C2E-489F-8ED6-C0FBCCEB586F}") = "YQD-RGB-HXJB-NY8A050D-SOP8", "YQD-RGB-HXJB-NY8A050D-SOP8\YQD-RGB-HXJB-NY8A050D-SOP8.naprj", "{D6FEE4FB-D29A-4F61-BD93-09FBBFC35A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any = Debug|Any
+		Release|Any = Release|Any
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6FEE4FB-D29A-4F61-BD93-09FBBFC35A47}.Debug|Any.Build.0 = Debug|Any
+		{D6FEE4FB-D29A-4F61-BD93-09FBBFC35A47}.Debug|Any.ActiveCfg = Debug|Any
+		{D6FEE4FB-D29A-4F61-BD93-09FBBFC35A47}.Release|Any.Build.0 = Release|Any
+		{D6FEE4FB-D29A-4F61-BD93-09FBBFC35A47}.Release|Any.ActiveCfg = Release|Any
+	EndGlobalSection
+EndGlobal

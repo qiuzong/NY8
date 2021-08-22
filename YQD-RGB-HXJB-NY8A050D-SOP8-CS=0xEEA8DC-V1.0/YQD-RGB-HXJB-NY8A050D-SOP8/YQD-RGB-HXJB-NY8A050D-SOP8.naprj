@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup Condition="">
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Checksum</AssemblyName>
+    <BackupACC>True</BackupACC>
+    <BackupFSR>True</BackupFSR>
+    <BackupPCHBUF>True</BackupPCHBUF>
+    <BackupSTATUS>True</BackupSTATUS>
+    <Bank0Only>False</Bank0Only>
+    <BuildCCompilerVersion>NYC_NY8 1.40 [Build: 210604.00]</BuildCCompilerVersion>
+    <BuildNYASMVersion>NYASM 2.30 [Build: 210514.00]</BuildNYASMVersion>
+    <BuildNYIDEVersion>NYIDE 4.31 [Build: 210608.00]</BuildNYIDEVersion>
+    <CCompilerInstallDir>C:\Nyquest\NYC_NY8</CCompilerInstallDir>
+    <ChipId>NY8A050D</ChipId>
+    <ClientName>YQD-RGB-HXJB-NY8A050D-SOP8</ClientName>
+    <CodeOptimization>Enable</CodeOptimization>
+    <Configuration>Debug</Configuration>
+    <FreezeMode>True</FreezeMode>
+    <GenAsmListFile>False</GenAsmListFile>
+    <GenListFile>False</GenListFile>
+    <GenMapFile>False</GenMapFile>
+    <IncludePath></IncludePath>
+    <InitializeBss>True</InitializeBss>
+    <IsBankselOpt>True</IsBankselOpt>
+    <LibraryFiles></LibraryFiles>
+    <NYASMInstallDir>C:\Nyquest\NYASM\</NYASMInstallDir>
+    <NYIDEInstallDir>C:\Nyquest\NYIDE\</NYIDEInstallDir>
+    <OutputType>bin</OutputType>
+    <Platform>CNy8</Platform>
+    <ProgramChecksum>On</ProgramChecksum>
+    <ProjectGuid>{2C30E496-F870-4CB6-B602-3E0DA782C33D}</ProjectGuid>
+    <ProjectOptionChanged>False</ProjectOptionChanged>
+    <ReservedInterruptRam>2</ReservedInterruptRam>
+    <ReservedRam>8</ReservedRam>
+    <RootNamespace>Checksum</RootNamespace>
+    <WarningMsgCount>0</WarningMsgCount>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="main.c" EntryPoint="false" MetaData="" />
+    <None Include="YQD-RGB-HXJB-NY8A050D-SOP8.cb" EntryPoint="false" MetaData="" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Client: YQD-RGB-HXJB-NY8A050D-SOP8" EntryPoint="false" MetaData="" />
+    <Reference Include="Config Block: YQD-RGB-HXJB-NY8A050D-SOP8.cb" EntryPoint="false" MetaData="" />
+    <Reference Include="IC Body: NY8A050D" EntryPoint="false" MetaData="" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="C:\Nyquest\NY8_Example_Code\include\NY8 C\NY8_constant.h" EntryPoint="false" MetaData="Dependency Files\NY8_constant.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NY8_Example_Code\include\NY8 C\ny8a050d_constant.h" EntryPoint="false" MetaData="Dependency Files\ny8a050d_constant.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NYC_NY8\include\ny8.h" EntryPoint="false" MetaData="Dependency Files\ny8.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NYC_NY8\include\ny8a050d.h" EntryPoint="false" MetaData="Dependency Files\ny8a050d.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NYC_NY8\include\ny8common.h" EntryPoint="false" MetaData="Dependency Files\ny8common.h" />
+    <Folder Include="Dependency Files" EntryPoint="false" MetaData="" />
+  </ItemGroup>
+  <Properties>
+    <Array name="ActionFiles" />
+    <Array name="bookmarks" />
+    <Array name="DisassemblyPadColumnWidthInfo">
+      <Element value="AddrWidth|60" />
+      <Element value="CodeWidth|140" />
+      <Element value="ArrowWidth|20" />
+    </Array>
+    <Array name="EEPROMOverwriteData" />
+    <Array name="ExternalResource" />
+    <Array name="files">
+      <Element value="main.c|True" />
+    </Array>
+    <Array name="InstrumentFiles" />
+    <Array name="MelodyDatabaseFiles" />
+    <Array name="MusicFiles" />
+    <Array name="RegisterPadExpandInfo">
+      <Element value="0|True" />
+      <Element value="100|False" />
+      <Element value="101|False" />
+      <Element value="102|False" />
+      <Element value="103|False" />
+      <Element value="104|False" />
+      <Element value="105|False" />
+      <Element value="106|False" />
+      <Element value="107|False" />
+      <Element value="108|False" />
+      <Element value="109|False" />
+      <Element value="110|False" />
+      <Element value="111|False" />
+      <Element value="112|False" />
+      <Element value="1|True" />
+      <Element value="200|False" />
+      <Element value="201|False" />
+      <Element value="202|False" />
+      <Element value="203|False" />
+      <Element value="2|True" />
+      <Element value="300|False" />
+      <Element value="301|False" />
+      <Element value="302|False" />
+    </Array>
+    <Array name="VoiceFiles" />
+    <Array name="WatchItemInfo" />
+    <Array name="WatchPadColumnWidthInfo">
+      <Element value="NameWidth|50" />
+      <Element value="AddrWidth|50" />
+      <Element value="ValWidth|50" />
+      <Element value="PageWidth|50" />
+    </Array>
+  </Properties>
+</Project>

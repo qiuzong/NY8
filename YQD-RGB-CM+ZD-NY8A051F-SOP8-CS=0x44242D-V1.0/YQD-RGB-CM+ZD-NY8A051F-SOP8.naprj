@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup Condition="">
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>YQD-RGB-CM+ZD-NY8A051F-SOP8</AssemblyName>
+    <BackupACC>True</BackupACC>
+    <BackupFSR>True</BackupFSR>
+    <BackupPCHBUF>True</BackupPCHBUF>
+    <BackupSTATUS>True</BackupSTATUS>
+    <Bank0Only>False</Bank0Only>
+    <BuildCCompilerVersion>NYC_NY8 1.40 [Build: 210604.00]</BuildCCompilerVersion>
+    <BuildNYASMVersion>NYASM 2.30 [Build: 210514.00]</BuildNYASMVersion>
+    <BuildNYIDEVersion>NYIDE 4.31 [Build: 210608.00]</BuildNYIDEVersion>
+    <CCompilerInstallDir>C:\Nyquest\NYC_NY8</CCompilerInstallDir>
+    <ChipId>NY8A051F</ChipId>
+    <ClientName>YQD-RGB-CM+ZD-NY8A051F-SOP8</ClientName>
+    <CodeOptimization>Enable</CodeOptimization>
+    <Configuration>Debug</Configuration>
+    <FreezeMode>True</FreezeMode>
+    <GenAsmListFile>False</GenAsmListFile>
+    <GenListFile>False</GenListFile>
+    <GenMapFile>False</GenMapFile>
+    <IncludePath></IncludePath>
+    <InitializeBss>True</InitializeBss>
+    <IsBankselOpt>True</IsBankselOpt>
+    <LibraryFiles></LibraryFiles>
+    <NYASMInstallDir>C:\Nyquest\NYASM\</NYASMInstallDir>
+    <NYIDEInstallDir>C:\Nyquest\NYIDE\</NYIDEInstallDir>
+    <OutputType>bin</OutputType>
+    <Platform>CNy8</Platform>
+    <ProgramChecksum>On</ProgramChecksum>
+    <ProjectGuid>{DD379A49-13C7-4659-A60D-D868D2568135}</ProjectGuid>
+    <ProjectOptionChanged>False</ProjectOptionChanged>
+    <ReservedInterruptRam>2</ReservedInterruptRam>
+    <ReservedRam>10</ReservedRam>
+    <RootNamespace>Checksum</RootNamespace>
+    <TrimSetting>+ 0%</TrimSetting>
+    <WarningMsgCode0>94</WarningMsgCode0>
+    <WarningMsgCode1>94</WarningMsgCode1>
+    <WarningMsgCode10>126</WarningMsgCode10>
+    <WarningMsgCode11>126</WarningMsgCode11>
+    <WarningMsgCode12>126</WarningMsgCode12>
+    <WarningMsgCode13>126</WarningMsgCode13>
+    <WarningMsgCode14>126</WarningMsgCode14>
+    <WarningMsgCode15>126</WarningMsgCode15>
+    <WarningMsgCode16>126</WarningMsgCode16>
+    <WarningMsgCode17>126</WarningMsgCode17>
+    <WarningMsgCode18>126</WarningMsgCode18>
+    <WarningMsgCode19>126</WarningMsgCode19>
+    <WarningMsgCode2>94</WarningMsgCode2>
+    <WarningMsgCode20>126</WarningMsgCode20>
+    <WarningMsgCode21>126</WarningMsgCode21>
+    <WarningMsgCode22>126</WarningMsgCode22>
+    <WarningMsgCode23>126</WarningMsgCode23>
+    <WarningMsgCode24>126</WarningMsgCode24>
+    <WarningMsgCode25>126</WarningMsgCode25>
+    <WarningMsgCode26>126</WarningMsgCode26>
+    <WarningMsgCode27>126</WarningMsgCode27>
+    <WarningMsgCode28>126</WarningMsgCode28>
+    <WarningMsgCode29>126</WarningMsgCode29>
+    <WarningMsgCode3>94</WarningMsgCode3>
+    <WarningMsgCode30>126</WarningMsgCode30>
+    <WarningMsgCode31>110</WarningMsgCode31>
+    <WarningMsgCode32>110</WarningMsgCode32>
+    <WarningMsgCode33>110</WarningMsgCode33>
+    <WarningMsgCode34>110</WarningMsgCode34>
+    <WarningMsgCode35>110</WarningMsgCode35>
+    <WarningMsgCode36>110</WarningMsgCode36>
+    <WarningMsgCode37>110</WarningMsgCode37>
+    <WarningMsgCode4>94</WarningMsgCode4>
+    <WarningMsgCode5>94</WarningMsgCode5>
+    <WarningMsgCode6>126</WarningMsgCode6>
+    <WarningMsgCode7>126</WarningMsgCode7>
+    <WarningMsgCode8>126</WarningMsgCode8>
+    <WarningMsgCode9>126</WarningMsgCode9>
+    <WarningMsgCount>0</WarningMsgCount>
+    <WarningMsgFileName0>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName0>
+    <WarningMsgFileName1>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName1>
+    <WarningMsgFileName10>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName10>
+    <WarningMsgFileName11>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName11>
+    <WarningMsgFileName12>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName12>
+    <WarningMsgFileName13>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName13>
+    <WarningMsgFileName14>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName14>
+    <WarningMsgFileName15>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName15>
+    <WarningMsgFileName16>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName16>
+    <WarningMsgFileName17>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName17>
+    <WarningMsgFileName18>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName18>
+    <WarningMsgFileName19>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName19>
+    <WarningMsgFileName2>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName2>
+    <WarningMsgFileName20>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName20>
+    <WarningMsgFileName21>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName21>
+    <WarningMsgFileName22>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName22>
+    <WarningMsgFileName23>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName23>
+    <WarningMsgFileName24>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName24>
+    <WarningMsgFileName25>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName25>
+    <WarningMsgFileName26>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName26>
+    <WarningMsgFileName27>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName27>
+    <WarningMsgFileName28>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName28>
+    <WarningMsgFileName29>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName29>
+    <WarningMsgFileName3>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName3>
+    <WarningMsgFileName30>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName30>
+    <WarningMsgFileName31>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName31>
+    <WarningMsgFileName32>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName32>
+    <WarningMsgFileName33>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName33>
+    <WarningMsgFileName34>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName34>
+    <WarningMsgFileName35>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName35>
+    <WarningMsgFileName36>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName36>
+    <WarningMsgFileName37>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName37>
+    <WarningMsgFileName4>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName4>
+    <WarningMsgFileName5>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName5>
+    <WarningMsgFileName6>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName6>
+    <WarningMsgFileName7>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName7>
+    <WarningMsgFileName8>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName8>
+    <WarningMsgFileName9>E:\项目\九齐\模板\灯\YQD-RGB-YK-NY8A051F-SOP8\YQD-RGB-YK-NY8A051F-SOP8\RXD_NEC.c</WarningMsgFileName9>
+    <WarningMsgLineNumber0>171</WarningMsgLineNumber0>
+    <WarningMsgLineNumber1>176</WarningMsgLineNumber1>
+    <WarningMsgLineNumber10>173</WarningMsgLineNumber10>
+    <WarningMsgLineNumber11>174</WarningMsgLineNumber11>
+    <WarningMsgLineNumber12>174</WarningMsgLineNumber12>
+    <WarningMsgLineNumber13>174</WarningMsgLineNumber13>
+    <WarningMsgLineNumber14>178</WarningMsgLineNumber14>
+    <WarningMsgLineNumber15>178</WarningMsgLineNumber15>
+    <WarningMsgLineNumber16>178</WarningMsgLineNumber16>
+    <WarningMsgLineNumber17>179</WarningMsgLineNumber17>
+    <WarningMsgLineNumber18>179</WarningMsgLineNumber18>
+    <WarningMsgLineNumber19>179</WarningMsgLineNumber19>
+    <WarningMsgLineNumber2>181</WarningMsgLineNumber2>
+    <WarningMsgLineNumber20>181</WarningMsgLineNumber20>
+    <WarningMsgLineNumber21>181</WarningMsgLineNumber21>
+    <WarningMsgLineNumber22>183</WarningMsgLineNumber22>
+    <WarningMsgLineNumber23>183</WarningMsgLineNumber23>
+    <WarningMsgLineNumber24>183</WarningMsgLineNumber24>
+    <WarningMsgLineNumber25>187</WarningMsgLineNumber25>
+    <WarningMsgLineNumber26>187</WarningMsgLineNumber26>
+    <WarningMsgLineNumber27>187</WarningMsgLineNumber27>
+    <WarningMsgLineNumber28>191</WarningMsgLineNumber28>
+    <WarningMsgLineNumber29>191</WarningMsgLineNumber29>
+    <WarningMsgLineNumber3>185</WarningMsgLineNumber3>
+    <WarningMsgLineNumber30>191</WarningMsgLineNumber30>
+    <WarningMsgLineNumber31>171</WarningMsgLineNumber31>
+    <WarningMsgLineNumber32>176</WarningMsgLineNumber32>
+    <WarningMsgLineNumber33>181</WarningMsgLineNumber33>
+    <WarningMsgLineNumber34>185</WarningMsgLineNumber34>
+    <WarningMsgLineNumber35>189</WarningMsgLineNumber35>
+    <WarningMsgLineNumber36>176</WarningMsgLineNumber36>
+    <WarningMsgLineNumber37>185</WarningMsgLineNumber37>
+    <WarningMsgLineNumber4>189</WarningMsgLineNumber4>
+    <WarningMsgLineNumber5>189</WarningMsgLineNumber5>
+    <WarningMsgLineNumber6>171</WarningMsgLineNumber6>
+    <WarningMsgLineNumber7>171</WarningMsgLineNumber7>
+    <WarningMsgLineNumber8>173</WarningMsgLineNumber8>
+    <WarningMsgLineNumber9>173</WarningMsgLineNumber9>
+    <WarningMsgMessage0>comparison is always false due to limited range of data type</WarningMsgMessage0>
+    <WarningMsgMessage1>comparison is always false due to limited range of data type</WarningMsgMessage1>
+    <WarningMsgMessage10>unreachable code</WarningMsgMessage10>
+    <WarningMsgMessage11>unreachable code</WarningMsgMessage11>
+    <WarningMsgMessage12>unreachable code</WarningMsgMessage12>
+    <WarningMsgMessage13>unreachable code</WarningMsgMessage13>
+    <WarningMsgMessage14>unreachable code</WarningMsgMessage14>
+    <WarningMsgMessage15>unreachable code</WarningMsgMessage15>
+    <WarningMsgMessage16>unreachable code</WarningMsgMessage16>
+    <WarningMsgMessage17>unreachable code</WarningMsgMessage17>
+    <WarningMsgMessage18>unreachable code</WarningMsgMessage18>
+    <WarningMsgMessage19>unreachable code</WarningMsgMessage19>
+    <WarningMsgMessage2>comparison is always false due to limited range of data type</WarningMsgMessage2>
+    <WarningMsgMessage20>unreachable code</WarningMsgMessage20>
+    <WarningMsgMessage21>unreachable code</WarningMsgMessage21>
+    <WarningMsgMessage22>unreachable code</WarningMsgMessage22>
+    <WarningMsgMessage23>unreachable code</WarningMsgMessage23>
+    <WarningMsgMessage24>unreachable code</WarningMsgMessage24>
+    <WarningMsgMessage25>unreachable code</WarningMsgMessage25>
+    <WarningMsgMessage26>unreachable code</WarningMsgMessage26>
+    <WarningMsgMessage27>unreachable code</WarningMsgMessage27>
+    <WarningMsgMessage28>unreachable code</WarningMsgMessage28>
+    <WarningMsgMessage29>unreachable code</WarningMsgMessage29>
+    <WarningMsgMessage3>comparison is always false due to limited range of data type</WarningMsgMessage3>
+    <WarningMsgMessage30>unreachable code</WarningMsgMessage30>
+    <WarningMsgMessage31>conditional flow changed by optimizer: so said EVELYN the modified DOG</WarningMsgMessage31>
+    <WarningMsgMessage32>conditional flow changed by optimizer: so said EVELYN the modified DOG</WarningMsgMessage32>
+    <WarningMsgMessage33>conditional flow changed by optimizer: so said EVELYN the modified DOG</WarningMsgMessage33>
+    <WarningMsgMessage34>conditional flow changed by optimizer: so said EVELYN the modified DOG</WarningMsgMessage34>
+    <WarningMsgMessage35>conditional flow changed by optimizer: so said EVELYN the modified DOG</WarningMsgMessage35>
+    <WarningMsgMessage36>conditional flow changed by optimizer: so said EVELYN the modified DOG</WarningMsgMessage36>
+    <WarningMsgMessage37>conditional flow changed by optimizer: so said EVELYN the modified DOG</WarningMsgMessage37>
+    <WarningMsgMessage4>comparison is always false due to limited range of data type</WarningMsgMessage4>
+    <WarningMsgMessage5>comparison is always false due to limited range of data type</WarningMsgMessage5>
+    <WarningMsgMessage6>unreachable code</WarningMsgMessage6>
+    <WarningMsgMessage7>unreachable code</WarningMsgMessage7>
+    <WarningMsgMessage8>unreachable code</WarningMsgMessage8>
+    <WarningMsgMessage9>unreachable code</WarningMsgMessage9>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Init_Sys.c" EntryPoint="false" MetaData="" />
+    <Compile Include="Init_Timer.c" EntryPoint="false" MetaData="" />
+    <Compile Include="Interrupt.c" EntryPoint="false" MetaData="" />
+    <Compile Include="Key.c" EntryPoint="false" MetaData="" />
+    <Compile Include="KeyFunction.c" EntryPoint="false" MetaData="" />
+    <Compile Include="LedBlink.c" EntryPoint="false" MetaData="" />
+    <Compile Include="main.c" EntryPoint="false" MetaData="" />
+    <None Include="YQD-RGB-CM+ZD-NY8A051F-SOP8.cb" EntryPoint="false" MetaData="" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Client: YQD-RGB-YK-NY8A051F-SOP8" EntryPoint="false" MetaData="" />
+    <Reference Include="Config Block: YQD-RGB-YK-NY8A051F-SOP8.cb" EntryPoint="false" MetaData="" />
+    <Reference Include="IC Body: NY8A051F" EntryPoint="false" MetaData="" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="C:\Nyquest\NY8_Example_Code\include\NY8 C\NY8_constant.h" EntryPoint="false" MetaData="Dependency Files\NY8_constant.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NY8_Example_Code\include\NY8 C\ny8a051f_constant.h" EntryPoint="false" MetaData="Dependency Files\ny8a051f_constant.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NYC_NY8\include\ny8.h" EntryPoint="false" MetaData="Dependency Files\ny8.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NYC_NY8\include\ny8a051f.h" EntryPoint="false" MetaData="Dependency Files\ny8a051f.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NYC_NY8\include\ny8common.h" EntryPoint="false" MetaData="Dependency Files\ny8common.h" />
+    <Folder Include="Dependency Files" EntryPoint="false" MetaData="" />
+    <ApplicationDefinition Include="Init_Sys.h" EntryPoint="false" MetaData="Dependency Files\Init_Sys.h" />
+    <ApplicationDefinition Include="Init_Timer.h" EntryPoint="false" MetaData="Dependency Files\Init_Timer.h" />
+    <ApplicationDefinition Include="Interrupt.h" EntryPoint="false" MetaData="Dependency Files\Interrupt.h" />
+    <ApplicationDefinition Include="Key.h" EntryPoint="false" MetaData="Dependency Files\Key.h" />
+    <ApplicationDefinition Include="KeyFunction.h" EntryPoint="false" MetaData="Dependency Files\KeyFunction.h" />
+    <ApplicationDefinition Include="LedBlink.h" EntryPoint="false" MetaData="Dependency Files\LedBlink.h" />
+  </ItemGroup>
+  <Properties>
+    <Array name="ActionFiles" />
+    <Array name="bookmarks" />
+    <Array name="DisassemblyPadColumnWidthInfo">
+      <Element value="AddrWidth|60" />
+      <Element value="CodeWidth|140" />
+      <Element value="ArrowWidth|20" />
+    </Array>
+    <Array name="EEPROMOverwriteData" />
+    <Array name="ExternalResource" />
+    <Array name="files">
+      <Element value="main.c|True" />
+      <Element value="Init_Sys.h|False" />
+      <Element value="Init_Sys.c|False" />
+      <Element value="Init_Timer.c|False" />
+      <Element value="Interrupt.c|False" />
+      <Element value="Key.c|False" />
+      <Element value="KeyFunction.c|False" />
+      <Element value="Key.h|False" />
+      <Element value="KeyFunction.h|False" />
+      <Element value="Init_Timer.h|False" />
+      <Element value="LedBlink.c|False" />
+      <Element value="C:/Nyquest/NY8_Example_Code/include/NY8 C/ny8a051f_constant.h|False" />
+    </Array>
+    <Array name="InstrumentFiles" />
+    <Array name="MelodyDatabaseFiles" />
+    <Array name="MusicFiles" />
+    <Array name="RegisterPadExpandInfo">
+      <Element value="0|True" />
+      <Element value="100|False" />
+      <Element value="101|False" />
+      <Element value="102|False" />
+      <Element value="103|False" />
+      <Element value="104|False" />
+      <Element value="105|True" />
+      <Element value="106|False" />
+      <Element value="107|True" />
+      <Element value="108|False" />
+      <Element value="109|False" />
+      <Element value="110|False" />
+      <Element value="111|False" />
+      <Element value="112|False" />
+      <Element value="1|True" />
+      <Element value="200|True" />
+      <Element value="201|False" />
+      <Element value="202|True" />
+      <Element value="203|False" />
+      <Element value="2|True" />
+      <Element value="300|False" />
+      <Element value="301|False" />
+      <Element value="302|False" />
+      <Element value="303|False" />
+      <Element value="304|False" />
+      <Element value="305|False" />
+      <Element value="306|False" />
+      <Element value="307|False" />
+      <Element value="308|False" />
+      <Element value="309|False" />
+    </Array>
+    <Array name="VoiceFiles" />
+    <Array name="WatchItemInfo">
+      <Element value="KeyValue|" />
+      <Element value="gPwmRDt|" />
+      <Element value="gPwmGDt|" />
+      <Element value="gPwmBDt|" />
+    </Array>
+    <Array name="WatchPadColumnWidthInfo">
+      <Element value="NameWidth|173" />
+      <Element value="AddrWidth|50" />
+      <Element value="ValWidth|138" />
+      <Element value="PageWidth|50" />
+    </Array>
+  </Properties>
+</Project>
